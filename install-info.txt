@@ -1,11 +1,10 @@
-Biblioteki wymagane do dzialania Ulix:
-
+Libs that you need:
 tk
 customtkinter
 pillow
 packaging
 
-1. Aby zainstalowac potrzebne elementy uruchom 'pipconfig.py'.
+1. To install them, run 'pipconfig.py'.
 
-2. Aby system dzialal, musisz ustawic sciezke do jego folderu glownego, ktory znajduje sie na twoim dysku - plik konfiguracyjny 'PathConfig.py'.
+2. Paste all file to folder and set its path as root in 'PathConfig.py'.
 
