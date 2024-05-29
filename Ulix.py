@@ -3,7 +3,7 @@
 # |_______________________________________|
 
 # This is part of the Ulix
-# This module is the main file for system
+# This module is the main file of the system
 
 import os
 from PathConfig import root_path
