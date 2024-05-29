@@ -6,5 +6,5 @@ packaging
 
 1. To install them, run 'pipconfig.py'.
 
-2. Paste all file to folder and set its path as root in 'PathConfig.py'.
+2. Paste all files to folder and set its path as root in 'PathConfig.py'.
 
