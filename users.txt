@@ -1,2 +1,2 @@
 CURRENT_USER = ""
-xsano:7946
+user:1234
