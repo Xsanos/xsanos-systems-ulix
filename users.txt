@@ -1,2 +1,2 @@
 CURRENT_USER = ""
-user:1234
+user:user

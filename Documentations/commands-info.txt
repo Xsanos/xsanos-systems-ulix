@@ -21,6 +21,8 @@ Enter a line (or 'exit' to finish): #Wpisz tekst lub 'exit' aby wyjsc
 
 nano -d [name]	  Usuwa wybrana linie.
 
+run [file_name.extension]    Wykonuje plik.
+
 #--------------Wyswietlanie Statystyk--------------
 ls	Wypisuje liste plikow i folderow w obecnej sciezce. 
 
@@ -42,7 +44,7 @@ whoami	Wyswietla obecnie zalogowanego uzytkownika.
 #--------------Obsluga Systemu--------------
 cls	Czysci konsole.
 
-help?	Otwiera dokumentacje polecen konsoli
+help	Otwiera dokumentacje polecen konsoli
 
 
 
