@@ -1,0 +1,6 @@
+1.0 Wprowadzono glowne okno i wiersz polecen
+1.1 Wprowadzono aplikacje: paint, notatnik
+1.2 Wprowadzono ustawienia: kolor motywu okna
+1.3 Naprawiono bledy przechodzenia miedzy oknami
+1.4 Wprowadzono w glownym oknie menu startu: ustawienia i opcje zasilania
+1.5 Utworzono folder var z funkcjami systemu
